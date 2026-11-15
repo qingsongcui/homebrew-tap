@@ -7,6 +7,8 @@ Official Homebrew Tap for **[Senrelay · 续境 (`ContextCore`)](https://senrela
 - **Official Website (中文)**: [https://senrelay.com/](https://senrelay.com/)
 - **Official Website (English)**: [https://senrelay.com/en/](https://senrelay.com/en/)
 - **Setup Guide / 使用指南**: [中文指南](https://senrelay.com/guide.html) · [English Guide](https://senrelay.com/en/guide.html)
+- **Host Config Paths / 宿主配置路径**: [15 宿主配置参考 (中文)](https://senrelay.com/hosts.html) · [15-Host Config Paths (EN)](https://senrelay.com/en/hosts.html)
+- **Relay Workflow / 跨 Agent 接力**: [跨 Agent 接力工作流 (中文)](https://senrelay.com/relay-workflow.html) · [Relay Workflow (EN)](https://senrelay.com/en/relay-workflow.html)
 - **5-Way Comparison / 方案对比**: [五方架构横评 (中文)](https://senrelay.com/compare.html) · [5-Way Comparison (EN)](https://senrelay.com/en/compare.html)
 - **Source Repository**: [https://github.com/qingsongcui/ContextCore](https://github.com/qingsongcui/ContextCore)
 
