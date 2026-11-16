@@ -39,7 +39,7 @@ cask "senrelay" do
     Before first launch, clear the download quarantine attribute:
       xattr -cr /Applications/Senrelay.app
 
-    Setup Guide (中文): https://senrelay.com/guide.html
-    Setup Guide (EN):   https://senrelay.com/en/guide.html
+    Setup Guide (EN):   https://senrelay.com/guide.html
+    Setup Guide (中文): https://senrelay.com/zh/guide.html
   EOS
 end

@@ -4,12 +4,13 @@ Official Homebrew Tap for **[Senrelay · 续境 (`ContextCore`)](https://senrela
 
 **Senrelay · 续境（[`qingsongcui/ContextCore`](https://github.com/qingsongcui/ContextCore)）** 官方 Homebrew Tap 仓库。提供原生 macOS 桌面应用一键安装支持。
 
-- **Official Website (中文)**: [https://senrelay.com/](https://senrelay.com/)
-- **Official Website (English)**: [https://senrelay.com/en/](https://senrelay.com/en/)
-- **Setup Guide / 使用指南**: [中文指南](https://senrelay.com/guide.html) · [English Guide](https://senrelay.com/en/guide.html)
-- **Host Config Paths / 宿主配置路径**: [15 宿主配置参考 (中文)](https://senrelay.com/hosts.html) · [15-Host Config Paths (EN)](https://senrelay.com/en/hosts.html)
-- **Relay Workflow / 跨 Agent 接力**: [跨 Agent 接力工作流 (中文)](https://senrelay.com/relay-workflow.html) · [Relay Workflow (EN)](https://senrelay.com/en/relay-workflow.html)
-- **5-Way Comparison / 方案对比**: [五方架构横评 (中文)](https://senrelay.com/compare.html) · [5-Way Comparison (EN)](https://senrelay.com/en/compare.html)
+- **Official Website (English)**: [https://senrelay.com/](https://senrelay.com/)
+- **Official Website (中文)**: [https://senrelay.com/zh/](https://senrelay.com/zh/)
+- **Pricing & Requirements (`$0` MIT)**: [https://senrelay.com/pricing.md](https://senrelay.com/pricing.md)
+- **Setup Guide / 使用指南**: [English Guide](https://senrelay.com/guide.html) · [中文指南](https://senrelay.com/zh/guide.html)
+- **Host Config Paths / 宿主配置路径**: [15-Host Config Paths (EN)](https://senrelay.com/hosts.html) · [15 宿主配置参考 (中文)](https://senrelay.com/zh/hosts.html)
+- **Relay Workflow / 跨 Agent 接力**: [Relay Workflow (EN)](https://senrelay.com/relay-workflow.html) · [跨 Agent 接力工作流 (中文)](https://senrelay.com/zh/relay-workflow.html)
+- **5-Way Comparison / 方案对比**: [5-Way Comparison (EN)](https://senrelay.com/compare.html) · [五方架构横评 (中文)](https://senrelay.com/zh/compare.html)
 - **Source Repository**: [https://github.com/qingsongcui/ContextCore](https://github.com/qingsongcui/ContextCore)
 
 ---
