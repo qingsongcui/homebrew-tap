@@ -1,6 +1,6 @@
 cask "senrelay" do
-  version "1.0.0-beta.2"
-  sha256 "b0ed95b1db70e368398e0f3f8b9bb93a274e04546e6aadd6721d5f3afac364b9"
+  version "1.0.0-beta.6"
+  sha256 "0064b908a0573102eb02ae123e0ad250bd8b8118dc7dff7017e8217c9f1ed152"
 
   url "https://github.com/qingsongcui/ContextCore/releases/download/v#{version}/Senrelay-macOS.zip",
       verified: "github.com/qingsongcui/ContextCore/"
